@@ -1,0 +1,8 @@
+itstep\api\main\joke\entity\Joke.class
+itstep\api\main\joke\exception\ExceptionHandler.class
+itstep\api\main\joke\controller\JokeController.class
+itstep\api\main\joke\service\JokeService.class
+itstep\api\main\joke\repository\JokeRepository.class
+itstep\api\main\JokeApplication.class
+itstep\api\main\joke\config\JokeConfig.class
+itstep\api\main\joke\exception\JokeNotFoundException.class

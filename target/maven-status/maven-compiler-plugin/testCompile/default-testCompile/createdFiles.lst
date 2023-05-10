@@ -1,0 +1,5 @@
+itstep\api\main\JokeApplicationTests.class
+itstep\api\main\joke\repository\JokeRepositoryTest.class
+itstep\api\main\joke\controller\JokeControllerTest.class
+itstep\api\main\joke\entity\JokeTest.class
+itstep\api\main\joke\service\JokeServiceTest.class

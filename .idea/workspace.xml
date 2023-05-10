@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69650495-a17c-4365-9357-c45771850977" name="Changes" comment="Testing and Dockering" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PWQLhJ6K6pYGliSyvWAh8qtqOu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/AllBlacks/Desktop/JokeRestApi",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.sync",
+    "spring.configuration.checksum": "0662527c1dcc0825c7fae01aa0120e67",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="itstep.api.main.joke.service" />
+      <recent name="itstep.api.main.joke.repository" />
+      <recent name="itstep.api.main.joke.controller" />
+      <recent name="itstep.api.main.joke.entity" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.api.main.joke" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.JokeServiceTest">
+    <configuration name="JokeControllerTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Joke" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="itstep.api.main.joke.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="itstep.api.main.joke.controller" />
+      <option name="MAIN_CLASS_NAME" value="itstep.api.main.joke.controller.JokeControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JokeRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Joke" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="itstep.api.main.joke.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="itstep.api.main.joke.repository" />
+      <option name="MAIN_CLASS_NAME" value="itstep.api.main.joke.repository.JokeRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JokeServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Joke" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="itstep.api.main.joke.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="itstep.api.main.joke.service" />
+      <option name="MAIN_CLASS_NAME" value="itstep.api.main.joke.service.JokeServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JokeTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Joke" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="itstep.api.main.joke.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="itstep.api.main.joke.entity" />
+      <option name="MAIN_CLASS_NAME" value="itstep.api.main.joke.entity.JokeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JokeApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Joke" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="itstep.api.main.JokeApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="itstep.api.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JokeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Joke" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.api.main.JokeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JokeServiceTest" />
+        <item itemvalue="JUnit.JokeRepositoryTest" />
+        <item itemvalue="JUnit.JokeTest (1)" />
+        <item itemvalue="JUnit.JokeControllerTest (1)" />
+        <item itemvalue="Spring Boot.JokeApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69650495-a17c-4365-9357-c45771850977" name="Changes" comment="" />
+      <created>1683570307159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683570307159</updated>
+      <workItem from="1683570309392" duration="5338000" />
+      <workItem from="1683578013415" duration="4268000" />
+      <workItem from="1683703557747" duration="7413000" />
+      <workItem from="1683750811157" duration="67000" />
+      <workItem from="1683750916542" duration="1434000" />
+    </task>
+    <task id="LOCAL-00001" summary="Testing and Dockering">
+      <created>1683750166325</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683750166325</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Testing and Dockering">
+      <created>1683750191721</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683750191721</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Testing and Dockering" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing and Dockering" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JokeRestApi$JokeTest.ic" NAME="JokeTest Coverage Results" MODIFIED="1683574365754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.api.main.joke.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JokeRestApi$JokeRepositoryTest.ic" NAME="JokeRepositoryTest Coverage Results" MODIFIED="1683575424865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.api.main.joke.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JokeRestApi$JokeServiceTest.ic" NAME="JokeServiceTest Coverage Results" MODIFIED="1683575310154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.api.main.joke.*</FILTER>
+    </SUITE>
+  </component>
+</project>
